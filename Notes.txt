@@ -1,0 +1,10 @@
+Make 2 selects.
+Make search bar and select separate from each other.
+Worry about connecting later.
+In the selects, instead of directors, change it to types/weaks.
+Could type them all out or make a helper page.
+Filmspage assignment strong template.
+Can store things typed into box in State.
+Use this storage to make filter. Will have an array of all pokemon, then using what the user types, filter array down to
+what should be displayed on page. .includes()
+Use react-project as template for the search bar.
